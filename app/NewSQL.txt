@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 PQRS
+=======
+ABCD
+>>>>>>> 2d3a6a29b2faebd339fd6fcb3bee2f258d1fadf4
